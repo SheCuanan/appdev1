@@ -1,0 +1,23 @@
+﻿Sherelyn Cuanan - BSIS 3
+Assignment: Exploring Emerging Technologies
+ANSWER:
+1. Internet of things (IoT)
+Purpose/Usage: The term "Internet of Things" refers to any smart gadget that has an Internet connection and can exchange data. It is connecting devices and systems, creating smarter environments. IoT is being used by colleges and universities to monitor student attendance, offer security, include students in the educational process, and modify instruction for individuals who need extra support. In IT, it is crucial for developing smart cities, industrial automation, and improving operational efficiencies5.
+Examples:  IoT sensors are used in smart buildings to manage energy usage, security systems, and maintenance needs. Also, Smart boards, door locks, security systems, fire alarms, mobile apps, educational software, and so forth are real world examples of IoT devices.
+2. Artificial intelligence (AI)
+Purpose/Usage:By providing tailored learning experiences in education and automating difficult processes in IT, AI is changing both industries. AI-driven educational systems can provide personalized learning pathways by adjusting to the needs of each unique student1. AI is used in IT for cybersecurity, operational efficiency, and predictive analytics..
+Examples: Chatbots driven by artificial intelligence (AI) offer students immediate assistance by responding to inquiries and advising on assignments.
+In IT, predictive maintenance uses AI algorithms to anticipate and stop equipment problems, reducing expenses and downtime.
+
+
+3. Big Data Analytics
+Purpose/Usage: We used it in education to enhance decision-making processes, big data analytics assists educational establishments in analyzing large volumes of data. This entails monitoring student progress, allocating resources as efficiently as possible, and spotting educational trends. Also, To obtain insights, enhance company operations, and spur innovation, big data analytics is used in IT to process and analyze massive datasets. It is essential for industries including finance, marketing, and healthcare.
+Examples:  One example is retail where companies like Amazon use big data analytics to Enhance Customer Experience by analyzing customer behavior and purchase history. The company can recommend products that customers are likely to buy.
+
+
+4. Cloud Computing
+Purpose/Usage: It provide on-demand internet access to a range of computing resources is the aim of cloud computing.It can be used to handle courses, assignments, and grades, colleges and institutions employ cloud-based Learning Management Systems (LMS).While, Businesses can easily manage a range of workloads thanks to cloud services like, which provide scalable computing resources. 
+Examples: Cloud-based Learning Management Systems (LMS) are used by schools and universities to manage assignments, grades, and courses. Also, Scalable computing resources are provided by cloud services like AWS and Azure, allowing companies to effectively manage a range of workloads.
+5. Machine Learning
+Purpose/Usage: In the field of education, machine learning algorithms examine student data to forecast academic achievement and reveal trends in learning. This enables teachers to modify their lesson plans to suit the needs of each unique student. When it comes to IT, machine learning (ML) is used to create intelligent systems that can learn from data and get better over time. Natural language processing, recommendation systems, and fraud detection are a few examples of applications.
+Examples: Algorithms can analyze X-rays or MRIs to detect early signs of conditions like cancer, often with high accuracy. Also, Banks and financial institutions use machine learning to detect fraudulent transactions
