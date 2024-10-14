@@ -1,9 +1,12 @@
+import './App.css'
+import Profile from './assets/Profile';
+
 function App() {
   return (
-    <div>
-      <h1>Welcome back Guyss!</h1>
-      <img className="avatar" src="https://i.imgur.com/yXOvdOSs.jpg" />
-    </div>
+    <>
+      <h1>Welcom to my App</h1>
+      <Profile />
+    </>
   );
 }
  
