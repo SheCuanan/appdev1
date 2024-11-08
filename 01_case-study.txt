@@ -1,0 +1,19 @@
+CUANAN, SHERELYN G.
+BSIS 3 (ASSIGNMENT #7 | APPDEV1)
+
+Questions for Consideration:
+
+As a Manager: How would you handle the situation when a key team member faces a personal issue that affects the project timeline? What steps would you take to ensure the team stays on track, and how would you communicate with both the client and your team?
+
+-Being a software manager, one of its jobs is to handle unexpected situations. Fast action is important to address the personal crisis of one of my developers for us to keep our project on timeline. I would talk to them personally and show empathy to understand their situation better and to figure out how we can help them. To some extent, I could also redistribute their tasks among the other team members. I would also communicate openly with our client about the possible delay, letting them know we are committed to delivering quality work as best as we could on deadline.
+
+-------------------------------------------------------------------------------------------------
+As a Developer: If you were the one facing a family emergency, how would you handle the situation to ensure that it doesn't negatively impact the project timeline? What actions would you take to manage your workload, communicate effectively with your manager, and ensure the project stays on course?
+
+-As a developer, it is important to openly communicate my family emergency to my team and manager as early as possible. I would try to explain my side of the story and help them understand my situation. I would also discuss what aspect of my workload might be urgent or flexible. In such a way, I am helping my team to find solutions without leaving them in difficult situations. I could also let them know and document what I have been working on so other team members can take over if needed. Part of a clear communication is being honest and proactive, which is very essential and key here so I could help lessen any potential impact on the project deadline.
+
+-------------------------------------------------------------------------------------------------
+What Could Have Been Done Better?: Reflect on how both the manager and the developer could have better anticipated potential risks and mitigated issues before they arose. What strategies might have helped avoid this situation or managed it more effectively?
+
+-The manager and developer could have anticipated potential risk better by carrying out regular checking in with each other about workload stressors or personal problems that might occur. Open communication from day one up until the end is a huge help to ease the pressure on everyone and might create an environment where team members feel safe sharing issues. Setting up strategies and plans such as flexible scheduling or backup plans for the tasks at the beginning of the project could have helped them manage any unexpected issues more effectively before they grow into crisis. Additionally, cross-training team members so that multiple people understand different parts of the project can make transitions smoother when someone needs time off or faces challenges.
+
